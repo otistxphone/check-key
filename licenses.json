@@ -3,10 +3,6 @@
     "a951bef6bc84e0a6de63097d120653f8b5276b51802f13b0dd25c5b73406c80c": {
       "valid": true,
       "expires": "2025-12-31"
-    },
-    "123456789abcdef": {
-      "valid": false,
-      "expires": "expired"
     }
   }
 }
