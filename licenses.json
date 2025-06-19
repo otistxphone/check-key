@@ -1,0 +1,12 @@
+{
+  "devices": {
+    "6ad3c927c8d3fa98a087c6e861e1ddc5486e702e58bdf384e1d6fd6aaedbb4ab": {
+      "valid": true,
+      "expires": "2025-12-31"
+    },
+    "123456789abcdef": {
+      "valid": false,
+      "expires": "expired"
+    }
+  }
+}
